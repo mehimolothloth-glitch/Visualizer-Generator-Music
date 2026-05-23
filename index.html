@@ -1,0 +1,24 @@
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title></title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <canvas id="visualizerCanvas"></canvas>
+  <div class="now-playing" id="nowPlaying">
+    <div class="song-title" id="songTitle">🎵 Upload Your Music, Bro</div>
+    <div class="hint">Audio Visualizer & Lo-fi Generator</div>
+  </div>
+  
+  <div class="ui-overlay">
+    <input type="file" id="fileInput" accept="audio/*" style="display: none;">
+    <button class="btn" id="uploadBtn" onclick="document.getElementById('fileInput').click()">📁 Upload</button>
+    <button class="btn" id="playBtn" onclick="togglePlay()">▶️ Play</button>
+    <button class="btn" id="rainBtn" onclick="toggleRain()">🌧️ Hujan</button>
+    <button class="btn" id="lofiBtn" onclick="toggleLofi()">📻 Lo-Fi</button>
+  </div>
+  <script src="script.js"></script>
+</body>
+</html>
