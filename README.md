@@ -14,4 +14,4 @@ Bahasa pemrograman: HTML, CSS, Javascript.
 Uji tes: Mampu berjalan normal 88% browser & melalui pengujian ketat terhadap keamanan API dan privasi pengguna.
 
 Cara penginstalan/membuka:
-- Klik link "
+- Klik link "https://mehimolothloth-glitch.github.io/Visualizer-Generator-Music/"
