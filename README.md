@@ -5,7 +5,8 @@ Sebuah projek yang saya kembangkan dengan bantuan AI DeepSeek, projek dengan beb
 Fitur:
  - Suara hujan (noise)
  - Lo-fi
- - upload file musik.
+ - upload file musik
+ - Tombol play & pause
 
 Fitur unik: Partikel Partikel yang bisa bergerak mengikuti melodi musik.
 
